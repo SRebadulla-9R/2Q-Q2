@@ -1,0 +1,95 @@
+*{
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: darkblue;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: darkblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: lightblue;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 700
+
+.space-grotesk-<uniquifier> {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+a { 
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+ }
+
+ .fugaz-one-regular {
+  font-family: "Fugaz One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+   font-family: "Fugaz One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin:50px;
+  text-align: center;
+   background-color:darkblue; 
+  color:whitesmoke; 
+  text-align:center; 
+}
+
+body {
+  background-image: url(background.jpeg);
+  background-size: cover;}
+
+  h2 {
+    color:darkblue; 
+    font-family: sans-serif;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  }
+
+  Option {
+    color:darkblue; 
+    font-family: sans-serif;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  }
+
+  input {
+    color:darkblue; 
+    font-family: sans-serif;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  margin: 50px;
+  }
+
+ 
